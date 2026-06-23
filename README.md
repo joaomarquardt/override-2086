@@ -24,4 +24,7 @@ A progressão acontece através de 5 salas interconectadas:
 - **Shift:** Dash (Investida)
 - **Botão Esquerdo do Mouse:** Ataque Básico (Tiro)
 
+# Jogue agora: 🔗
+https://gd.games/games/bbec06c3-6131-43c4-bfca-03027f30f6b8
+
 Projeto acadêmico da UNIRIO, desenvolvido para a entrega em Junho de 2026.
